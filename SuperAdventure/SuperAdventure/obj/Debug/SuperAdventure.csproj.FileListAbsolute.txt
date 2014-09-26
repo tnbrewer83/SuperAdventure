@@ -8,3 +8,4 @@ C:\Users\Demo\Documents\GitHub\SuperAdventure\SuperAdventure\SuperAdventure\obj\
 C:\Users\Demo\Documents\GitHub\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.Cache
 C:\Users\Demo\Documents\GitHub\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\Demo\Documents\GitHub\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\Demo\Documents\GitHub\SuperAdventure\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
