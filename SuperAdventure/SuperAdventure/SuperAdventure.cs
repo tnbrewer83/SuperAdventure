@@ -22,7 +22,7 @@ namespace SuperAdventure
 
             Location location = new Location(1, "Home", "This is your home.";
 
-            _player = new Player();
+            _player = new Player(10, 10, 20, 0, 1);
 
             _player.CurrentHitPoints = 10;
             _player.MaximumHitPoints = 10;
